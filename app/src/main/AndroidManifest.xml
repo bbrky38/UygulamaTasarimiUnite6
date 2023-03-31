@@ -38,6 +38,7 @@
         <activity
             android:name=".Ss247Activity"
             android:label="Sıra Sizde 247" />
+        <activity android:name=".Uygulama5Activity" android:label="Uyg5"></activity>
     </application>
 
 </manifest>

@@ -42,6 +42,19 @@
         app:layout_constraintVertical_bias="0.24" />
 
     <Button
+        android:id="@+id/uyg5Btn"
+        android:layout_width="134dp"
+        android:layout_height="48dp"
+        android:onClick="btnGiris"
+        android:text="Uygulama 5"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.05"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.31" />
+
+    <Button
         android:id="@+id/uyg3Btn"
         android:layout_width="134dp"
         android:layout_height="48dp"
@@ -64,4 +77,5 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.023" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
